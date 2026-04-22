@@ -61,6 +61,7 @@ Global Stability (RMSE): $66,740
 
 Error Percentage (MAPE): 10.10%
 
+
 **RUNNER-UP: XGBoost_Reg**
 
 Confidence Score (R²): 0.8971
@@ -71,8 +72,10 @@ Global Stability (RMSE): $67,025
 
 Error Percentage (MAPE): 10.11%
 
+
 **Final Winner Analysis:** LightGBM_Reg is selected for production deployment. It achieved the highest Predictive Resolution (0.8980 R²) and the lo
 west Average Error ($44,438).
+
 
 **Stability Confirmation:** The model demonstrated extreme mathematical stability with a training-to-testing gap of only 0.0170, ensuring the engine will perform reliably on real-world, unseen listings.
 
